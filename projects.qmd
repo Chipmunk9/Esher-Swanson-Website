@@ -1,17 +1,36 @@
 ---
 title: "Projects"
+editor: 
+  markdown: 
+    wrap: 72
 ---
-## Dr. Nathan Furey's Fish and Movement Ecology Lab ##
-### Project 1 ###
-Energy Density Details Here
-### Project 2 ###
-SURF Here
-### Project 3 ###
-Smelt Here
-## Dr. Karolina Kwasek's Aquaculture Lab ##
-### Project 4 ###
+
+## Dr. Nathan Furey's Fish and Movement Ecology Lab:
+
+### Forage Fish Energy Density
+
+Forage Fish are important prey for many organisms because they connect
+and disperse energy across food webs. Higher availability of energy
+dense forage fish is correlated with higher ecosystem productivity and
+resilience to ecosystem stressors such as warming. This study collected
+forage fish samples from seine surveys, dropped prey items at White
+Island's tern colony, and directly from the stomach contents of striped
+bass (Morone saxatilis) and Atlantic cod (Gadus morhua).
+
+### Stomach Contents of Striped Bass and Atlantic Cod
+
+SURF Here 
+
+### Project 3  
+Smelt Here 
+
+## Dr. Karolina Kwasek's Aquaculture Lab 
+### Project 4 
 Current Zebrafish Study Here
-### Project 5 ###
-URA Here
-## Upcoming Projects ##
-### Development of Commercial Scallop Aquaculture ###
+### Project 5 
+URA Here 
+
+## Upcoming Projects 
+
+### Development of Commercial Scallop Aquaculture
+Type Here
