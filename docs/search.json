@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire. I have worked with Dr. Nathan Furey’s Fish and Movement Ecology Lab and Dr. Karolina Kwasek’s Aquaculture Lab here at UNH. I have also helped the Marine Bioacoustics and Behavior Lab with gear deployment and I will be working with the Center for Sustainable Seafood Systems to develop sustainable scallop aquaculture at UNH next semester too. My primary interests lie in studying forage fish ecology and antipredator behavioral responses, but I am also interested in bioacoustics. I enjoy coding in R and am always interested in learning new quantitative methods. I love ice cream, building Legos, listening to music, and watching Formula 1 Racing.\n\nEducation\nI am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire (GPA 3.94). I plan to pursue a MS in Ecology after I graduate in May 2027.\n\n\nExperience\nMy CV (last updated November 1st, 2026):"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -54,5 +33,12 @@
     "title": "Projects",
     "section": "Other Relevant Work",
     "text": "Other Relevant Work\n\nGear Deployment with the Marine Bioacoustics and Behavior Lab at UNH\nI assist as extra field hands with seal surveys and hydrophone checks.\n\n\nSurfrider Foundation: Blue Water Task Force\nI work with UNH’s Surfrider Chapter to collect ocean water samples and test them for harmful bacteria at UNH’s Jackson Estuarine Laboratory."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire. I have worked with Dr. Nathan Furey’s Fish and Movement Ecology Lab and Dr. Karolina Kwasek’s Aquaculture Lab here at UNH. I have also helped the Marine Bioacoustics and Behavior Lab with gear deployment and I will be working with the Center for Sustainable Seafood Systems to develop sustainable scallop aquaculture at UNH next semester too. My primary interests lie in studying forage fish ecology and antipredator behavioral responses, but I am also interested in bioacoustics. I enjoy coding in R way too much and am always interested in learning new quantitative methods. I love ice cream, building Legos, listening to music, and watching Formula 1 Racing.\n\nEducation\nI am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire (GPA 3.94). I plan to pursue a MS in Ecology after I graduate in May 2027.\n\n\nExperience\nMy CV (last updated November 1st, 2026):"
   }
 ]
