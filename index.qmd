@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: IMG_5284.jpeg
+  image: img/IMG_5284.jpeg
 ---
 
 ::: {#me}
@@ -13,9 +13,9 @@ I am a marine, estuarine, and freshwater biology and sustainability dual major a
 
 I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire (GPA 3.94). I plan to pursue a MS in Ecology after I graduate in May 2027.
 
-### Experience 
+### Experience
 
 My CV (last updated November 1st, 2026):
 
 ![](images/CV%2026-11%20pdf.pdf)
-
+:::
