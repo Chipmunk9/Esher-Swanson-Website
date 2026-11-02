@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Chipmunk's Website"
+  title: "Esher Swanson"
   navbar:
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: Darkly
     toc: true
 
 editor: source
