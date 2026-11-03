@@ -7,11 +7,11 @@ about:
 ---
 
 ::: {#me}
-I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire. I have worked with Dr. Nathan Furey's Fish and Movement Ecology Lab and Dr. Karolina Kwasek's Aquaculture Lab here at UNH. I have also helped the Marine Bioacoustics and Behavior Lab with gear deployment and I will be working with the Center for Sustainable Seafood Systems to develop sustainable scallop aquaculture at UNH next semester too. My primary interests lie in studying forage fish ecology and antipredator behavioral responses, but I am also interested in bioacoustics. I enjoy coding in R way too much and am always interested in learning new quantitative methods. I love ice cream, building Legos, listening to music, and watching Formula 1 Racing.
+I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire. I have worked with Dr. Nathan Furey's Fish and Movement Ecology Lab and Dr. Karolina Kwasek's Aquaculture Lab here at UNH. I have also helped the Marine Bioacoustics and Behavior Lab with gear deployment and I will be working with the Center for Sustainable Seafood Systems to develop sustainable scallop aquaculture next semester. My primary interests lie in studying forage fish ecology and antipredator behavioral responses, but I am also interested in bioacoustics. I enjoy coding in R and am always interested in learning new quantitative methods. I love ice cream, building Legos, listening to music, and watching Formula 1 Racing.
 
 ### Education ###
 
-I am a marine, estuarine, and freshwater biology and sustainability dual major at the University of New Hampshire (GPA 3.94). I plan to pursue a MS in Ecology after I graduate in May 2027.
+I am a marine, estuarine, and freshwater biology + sustainability dual major at the University of New Hampshire (GPA 3.94). I plan to pursue a MS in Ecology after I graduate in May 2027.
 
 ### Experience ###
 
