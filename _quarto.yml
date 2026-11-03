@@ -19,7 +19,7 @@ website:
 format:
   html:
     theme: Darkly
-    toc: true
+    toc: false
 
 editor: source
 
